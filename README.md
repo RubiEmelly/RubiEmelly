@@ -3,7 +3,7 @@
 - 🖥️ Sou estudante de gradução em Análise e Desenvolvimento de Sistemas.
 - 👩‍🚀 Atualmente faço graduação no curso de Análise e Desenvolvimento de Sistemas na Fatec Jales.
 - 👩‍🎓 Sou formada no curso de Técnico em Desenvolvimento de Sistemas pela Etec Jales.
-- 🔍 Buscando estágio
+- 🔍 Buscando estágio.
 
 <div align="center">
   <a href="https://github.com/rubiemelly/">

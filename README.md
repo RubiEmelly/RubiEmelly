@@ -23,7 +23,7 @@
  
 <div style="display: block"><br>
   <div style= "display: grid">
-  <img align="left" height="200" width="200" src="https://github.com/rubiemelly/rubiemelly/assets/127144120/ec89335b-a8fe-4a8e-b265-f0b6a37f01c4"/>
+  <img align="left" height="200" width="200" src="https://github.com/RubiEmelly/RubiEmelly/assets/117771951/37fe0d49-7efc-4342-afd2-20ea890c482b"/>
 </div>
 <br>
   

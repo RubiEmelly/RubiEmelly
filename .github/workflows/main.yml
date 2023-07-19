@@ -36,4 +36,4 @@ jobs:
           
       - name: Personalizar estilo
         run: |
-          echo "<style>body { background-color: #FF0000; }</style>" >> dist/index.html
+          echo "<style>body { background-color: #A9A9A9; }</style>" >> dist/index.html

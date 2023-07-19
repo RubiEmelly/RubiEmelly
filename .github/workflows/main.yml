@@ -1,3 +1,5 @@
+name: Gerar Datas
+
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:

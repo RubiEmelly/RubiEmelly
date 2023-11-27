@@ -38,7 +38,7 @@
 <br>
 
  <div style= "display: grid">
-  <a href="https:// " target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://emellyandraderubiy.wixsite.com/my-site-port" target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </div> 
   
   ![Snake animation](https://github.com/RubiEmelly/RubiEmelly/blob/output/github-contribution-grid-snake.svg)
